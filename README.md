@@ -12,6 +12,8 @@ William Arturo Gil Rativa
 
 Noviembre  de 2025
 
+---
+
 # Cuando una nota no dice todo lo que aprendimos
 En la universidad, las calificaciones se presentan como una forma de reflejar cuánto hemos aprendido, pero en la práctica muchas veces terminan siendo solo un número. A lo largo de mi experiencia como estudiante, he sentido que detrás de cada nota hay más cosas que no se miden: el esfuerzo, las horas de estudio, las dudas superadas y hasta el miedo a equivocarse; y aunque todos buscamos buenas notas, lo cierto es que el proceso para obtenerlas no siempre representa el verdadero aprendizaje que vivimos en el aula.
 
@@ -36,6 +38,7 @@ Decreto 1330 de 2019. (25 de julio de 2019). Por el cual se sustituye el Capítu
 
 Ley 115 de 1994. (1994, 8 de febrero). Ley General de Educación. Diario Oficial No. 41.214. Congreso de la República de Colombia. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=292
 
+---
 
 # Lo que las notas realmente nos enseñan
 A lo largo de los años, el tema de las calificaciones ha sido motivo de debate entre docentes y estudiantes. En teoría, las notas deberían reflejar el aprendizaje, pero en la práctica muchas veces terminan midiendo más la capacidad de memorizar o de cumplir con ciertas exigencias. En mi experiencia, y en la de muchos compañeros, una calificación puede ser un impulso o una carga, dependiendo no solo del número que aparezca, sino del mensaje que transmite el profesor con ella.
@@ -67,4 +70,51 @@ Tripp, B., Morales, K., & Evans, D. (2025). Undergraduate STEM students’ perce
 UNESCO. (2024). Informe de seguimiento de la educación en el mundo 2024/5: Liderazgo en la educación: Liderar por el aprendizaje. Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. https://unesdoc.unesco.org/ark:/48223/pf0000393786 
 
 Wallwey, C., Soledad, M., & Geary, C (2024). What do grades mean? A scoping literature review on students' perceptions of grades and grading practices. Proceedings of the American Society for Engineering Education Annual Conference, 1–14. https://www.researchgate.net/publication/382875765_What_Do_Grades_Mean_A_Scoping_Literature_Review_on_Students'_Perceptions_of_Grades_and_Grading_Practices 
+
+---
+
+# Cuando la nota pesa más allá del aula
+A veces se piensa que una calificación solo tiene efecto en el estudiante, pero en realidad va mucho más allá. Cada nota toca también a la familia, a quienes acompañan el proceso educativo y, en muchos casos, a la estabilidad económica del hogar. En mi experiencia, he sentido cómo una nota no solo mide mi conocimiento, sino que puede definir si mantengo una beca o pierdo la posibilidad de seguir estudiando. Y eso no es algo menor.
+
+En Colombia, muchos estudiantes universitarios dependemos de becas, subsidios o apoyos económicos que exigen mantener promedios altos. Estos programas, aunque bien intencionados, también generan una presión enorme, porque una calificación injusta o sin explicación puede poner en riesgo mucho más que un número en una hoja: puede significar perder el esfuerzo de toda una familia. Según un estudio del Ministerio de Educación Nacional (2022) sobre el impacto de los incentivos económicos, los estudiantes becados enfrentan mayores niveles de ansiedad académica, especialmente cuando no perciben claridad en los criterios de evaluación.
+
+A esto se suma que los padres, antes de ser padres, también fueron estudiantes. Muchos cargan sus propias experiencias con la calificación: algunos fueron premiados solo por la nota, otros castigados por no alcanzar lo que se esperaba de ellos. Esas vivencias marcan la forma en que hoy entienden el éxito académico de sus hijos. La psicóloga educativa Claudia Jaramillo (2020) menciona que “las familias tienden a reproducir los patrones de valoración que vivieron en su etapa escolar, trasladando la nota como símbolo de orgullo o frustración”. Y tiene razón: a veces, cuando llego a casa con una nota baja, no se analiza el proceso ni las circunstancias, solo el resultado.
+
+Lo difícil es que ese resultado, muchas veces, ni siquiera depende del todo del estudiante. Cuando un profesor califica sin ofrecer una retroalimentación constructiva, el mensaje que llega no es de mejora, sino de frustración. Uno siente que el esfuerzo no fue visto. Y mientras tanto, los padres solo ven el número, sin conocer lo que hubo detrás.
+
+También es cierto que el entorno social influye mucho. No todos los estudiantes parten del mismo punto: algunos deben trabajar, otros viven lejos o enfrentan dificultades personales que afectan su rendimiento. Sin embargo, el sistema de calificación suele ser el mismo para todos, como si las condiciones fueran iguales. Investigaciones como la de Gómez y Martínez (2021) sobre equidad en la educación superior colombiana resaltan que la evaluación universitaria aún carece de sensibilidad hacia los contextos individuales, lo que perpetúa desigualdades y presiona más a los estudiantes con menos recursos.
+
+En mi caso, sé que necesito mantener un promedio alto para conservar la beca que me permite seguir estudiando. Por eso, cuando percibo que una nota no refleja mi esfuerzo, intento dialogar, pedir otra oportunidad o una retroalimentación que me ayude a mejorar. No se trata de exigir una calificación perfecta, sino de entender en qué fallé y cómo puedo crecer. Lo que duele no es la nota baja, sino la falta de explicación.
+
+La calificación, entonces, no es solo un número: es una experiencia emocional y social que atraviesa al estudiante, a su familia y a su futuro. Por eso, cuando un profesor califica sin conciencia del impacto y sin la debida transparencia que eso tiene, puede estar afectando mucho más de lo que imagina.
+
+Y es aquí donde la reflexión se vuelve inevitable: ¿cómo viven los propios docentes este proceso de calificar?, ¿qué sienten o piensan al poner una nota sin acompañar al estudiante? Esa es la mirada que exploro en el siguiente capítulo.
+
+---
+
+# Cuando la nota pesa más que la enseñanza
+Hay momentos en la vida universitaria que dejan más huella que cualquier clase. No son las notas más altas ni los temas más complejos los que se recuerdan, sino esas situaciones en las que uno siente que su esfuerzo no fue realmente visto. En varias ocasiones me ha pasado que, después de entregar un trabajo con dedicación, la calificación no refleja todo el tiempo ni la energía que invertí. Y lo más frustrante es cuando pido una retroalimentación y no la hay.
+
+Una vez, luego de recibir una nota que me pareció injusta, pedí con respeto una explicación. Al principio, el profesor evitó darla, posponiendo la conversación hasta casi el cierre del sistema de calificaciones. Cuando finalmente accedió a revisar mi trabajo, se dio cuenta de que había pasado por alto partes importantes del contenido. Al reconocerlo, cambió la nota, y esa simple acción me confirmó algo: a veces, el error no está en el estudiante, sino en la falta de atención de rigor metodológico quien califica. Esa experiencia me hizo pensar que, muchas veces, los docentes observan más la cantidad de páginas o la entrega a tiempo, que el verdadero contenido o el proceso detrás del trabajo.
+
+En el desarrollo de mi carrera, también he notado grandes diferencias entre las formas de enseñar. Algunos profesores llegan a clase, dejan un taller y esperan que lo resolvamos por nuestra cuenta, sin explicación previa. Otros, aunque explican, se limitan a leer diapositivas y avanzan sin asegurarse de que todos comprendamos. En cambio, hay quienes sí logran conectar la teoría con la práctica: explican, guían, acompañan y se interesan en el avance de cada estudiante. Son esos docentes los que realmente dejan huella, no por las notas que colocan, sino por el aprendizaje que construyen junto a nosotros.
+
+También me he encontrado con casos donde se califica una misma actividad con criterios diferentes, sin explicación alguna. Por ejemplo, en una asignatura, realicé el mismo tipo de aportes en los foros durante dos cortes distintos, con la misma dedicación, pero la nota bajó sin que nadie dijera por qué. La ausencia de criterios unificados y de una rúbrica transparente impide al estudiante autoevaluar y orientar su mejora. No hubo observaciones ni sugerencias, solo un número en el sistema. ¿Cómo se puede mejorar si no se sabe en qué se falló? La retroalimentación no solo sirve para corregir, sino para motivar, y cuando no existe, el proceso de aprendizaje se vuelve una adivinanza constante.
+
+El pedagogo Philippe Perrenoud (2008) sostiene que evaluar también implica que el docente se autoevalúe, porque “la calificación no solo mide al estudiante, sino también la forma en que se enseña”. De igual manera, Stufflebeam (2017) plantea que toda evaluación tiene un impacto ético, ya que refleja la responsabilidad y el compromiso de quien la realiza. En ese sentido, cada nota que un profesor coloca también habla de él: de su atención, de su justicia y de su comprensión del proceso formativo.
+
+Creo que detrás de cada calificación hay dos evaluaciones: la del estudiante y la del docente. Cada número que aparece en el sistema dice algo del trabajo del alumno, pero también de la forma como el profesor asume su rol. Un docente que explica acompaña y retroalimenta, demuestra tanto su conocimiento como su vocación. Pero aquel que solo califica sin orientar, pierde la oportunidad de enseñar más allá del contenido del curso.
+
+Al final, tanto el estudiante como el profesor están en un proceso de aprendizaje. Nosotros aprendemos de sus clases, pero ellos también deberían aprender de nuestras experiencias, preguntas y reacciones. Porque calificar no es solo poner un número: es comunicar, orientar y construir confianza. Cuando esa comunicación se rompe, la educación se vuelve mecánica, fría y sin sentido. Y cuando la nota pesa más que la enseñanza, cuando se le despoja de su función orientadora, se pierde lo más importante: el verdadero valor de aprender.
+
+## Referencias Bibliográficas
+Gómez, R. & Martínez, S. (2021). Evaluación universitaria y equidad: Un análisis de sensibilidad al contexto en la educación superior colombiana. Revista Iberoamericana de Evaluación Educativa, 14(2), 37-50. https://doi.org/10.15366/riee2021.14.2.003
+
+Jaramillo, C. (2020). La familia y la percepción de éxito académico en jóvenes universitarios. Revista Colombiana de Psicología Educativa, 19(1), 54–69.
+
+Ministerio de Educación Nacional. (2022). Informe sobre el impacto de los incentivos económicos en la permanencia universitaria. Bogotá: MEN. https://www.mineducacion.gov.co/sistemasinfo/spadies/secciones/Gestion-de-la-permanencia/ 
+
+Perrenoud, P. (2008). La evaluación de los alumnos: De la producción de la excelencia a la regulación de los aprendizajes. Magisterio. https://books.google.com.co/books?hl=es&lr=&id=yAnoh9TauFYC&oi=fnd&pg=PA7&dq=Perrenoud,+P.+(2008).#v=onepage&q=Perrenoud%2C%20P.%20(2008).&f=false 
+
+Stufflebeam, D. L. (2017). The CIPP model for evaluation: An update, a review, and an interpretation of its ethical guidelines. En M. M. Altschuld & C. C. M. L. Russ-Eft (Eds.), Evaluation essentials: From A to Z (págs. 37–51). SAGE Publications. https://books.google.com.co/books?hl=es&lr=&id=Y1LgDQAAQBAJ&oi=fnd&pg=PP1&dq=Stufflebeam,+D.+L.+(2017).+The+CIPP+evaluation+model:+How+to+evaluate+for+improvement+and+accountability.+Guilford+Press&ots=pWbepRl8fq&sig=Qej6rUhXs1OdCJ9F0u2r93mB0ZY&redir_esc=y#v=onepage&q=Stufflebeam%2C%20D.%20L.%20(2017).%20The%20CIPP%20evaluation%20model%3A%20How%20to%20evaluate%20for%20improvement%20and%20accountability.%20Guilford%20Press&f=false
 
