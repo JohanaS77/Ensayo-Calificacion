@@ -14,6 +14,15 @@ Noviembre  de 2025
 
 ---
 
+# Introducción
+La calificación siempre ha sido un tema sensible dentro del proceso educativo. Detrás de cada nota hay historias de esfuerzo, frustración, logros y aprendizajes que muchas veces no se ven reflejados en un número. Este ensayo nace de mi experiencia como estudiante universitaria, pero también de la necesidad de reflexionar sobre lo que realmente significa calificar y ser calificado.
+
+A través de cuatro capítulos, analizo la calificación desde distintos enfoques: el legal, el pedagógico, el familiar y el humano. En cada uno se evidencia que evaluar no es solo medir resultados, sino acompañar procesos, reconocer el esfuerzo y generar oportunidades de mejora. Más que un juicio, la calificación debería ser un diálogo entre quien enseña y quien aprende.
+
+El propósito de este texto es invitar a mirar la evaluación desde su verdadero sentido formativo y ético, recordando que, cuando una nota se coloca sin comprensión ni retroalimentación, deja de ser un medio para aprender y se convierte en una barrera. Reflexionar sobre esto no solo nos ayuda como estudiantes, sino que también invita a los docentes a mirarse en el espejo de su propia enseñanza.
+
+---
+
 # Cuando una nota no dice todo lo que aprendimos
 En la universidad, las calificaciones se presentan como una forma de reflejar cuánto hemos aprendido, pero en la práctica muchas veces terminan siendo solo un número. A lo largo de mi experiencia como estudiante, he sentido que detrás de cada nota hay más cosas que no se miden: el esfuerzo, las horas de estudio, las dudas superadas y hasta el miedo a equivocarse; y aunque todos buscamos buenas notas, lo cierto es que el proceso para obtenerlas no siempre representa el verdadero aprendizaje que vivimos en el aula.
 
