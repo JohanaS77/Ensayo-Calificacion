@@ -10,7 +10,7 @@ Pruebas de Software II
 
 William Arturo Gil Rativa
 
-Noviembre  de 2025
+Noviembre 12 de 2025
 
 ---
 
